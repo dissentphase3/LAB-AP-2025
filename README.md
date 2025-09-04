@@ -1,6 +1,6 @@
 # LAB-AP-2025
 
-# Repositori Tugas Praktikum Algoritma dan Pemrograman 2023
+# Repositori Tugas Praktikum Algoritma dan Pemrograman 2025
 
 ## Requirements:
 1. Buat akun GitHub (https://github.com/)
